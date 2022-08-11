@@ -1,4 +1,3 @@
-@Echo off
 Setlocal EnableDelayedExpansion
 
 Set _path=%LocalAppdata%\NotifyFunction
